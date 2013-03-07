@@ -1,7 +1,7 @@
-node-express-h5bp-twitter-bootstrap-css
-=======================================
+node-express-h5bp-twitter-bootstrap-css-angularjs
+=================================================
 
-If you want to start a new node.js express project based on html5 boilerplate and twitter bootstrap (CSS) - this is the way to go.
+If you want to start a new node.js express project based on html5 boilerplate, twitter bootstrap (CSS) and AngularJS - this is the way to go.
 
 Just run the following commands:
 
